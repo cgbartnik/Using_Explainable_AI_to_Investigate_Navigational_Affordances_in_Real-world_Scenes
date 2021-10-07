@@ -1,1 +1,1 @@
-# Using_Explainable_AI_to_Investigate_Navigational_Affordances_in_Real-world_Scenes
+# Using Explainable AI to Investigate Navigational Affordances in Real-world Scenes
