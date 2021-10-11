@@ -2,7 +2,7 @@
 
 This repository contains the python code used for the CRS21 Poster it contains code to load the used Stimuli and behavioral data collected from an online experiment and different XAI feature visualizations. The anotated paths are quantitativly analyzed and the different feature spaces are compared using reprsentational similarity analysis (RSA). 
 
-![Poster](/poster_CRS21.png)
+![Poster](/Using_Explainable_AI_to_Investigate_Navigational_Affordances_in_Real_world_Scenes.pdf)
 
 ## Abstract
 
